@@ -4,12 +4,6 @@
 
 I develop backend applications in Java and focus on building REST APIs, working with databases, and designing clean, maintainable service architecture.
 
-### About me
-- Backend developer with a focus on Java and Spring Boot
-- Interested in backend architecture, API design, and database-driven applications
-- I like turning business logic into clear and reliable backend services
-- Continuously improving my skills through hands-on projects and practical development
-
 ### Tech stack
 - **Language:** Java
 - **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
