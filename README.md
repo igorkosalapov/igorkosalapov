@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**igorkosalapov/igorkosalapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer
 
-Here are some ideas to get you started:
+I develop backend applications in Java and focus on building REST APIs, working with databases, and designing clean, maintainable service architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- Backend developer with a focus on Java and Spring Boot
+- Interested in backend architecture, API design, and database-driven applications
+- I like turning business logic into clear and reliable backend services
+- Continuously improving my skills through hands-on projects and practical development
+
+### Tech stack
+- **Language:** Java
+- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
+- **Databases:** PostgreSQL, H2
+- **Tools:** Maven, Docker, Git, Postman
+- **Testing:** JUnit, integration testing, API testing
+
+### Featured projects
+
+#### [Explore With Me](https://github.com/igorkosalapov/java-explore-with-me)
+A multi-module event platform with a main application and a separate statistics service.  
+**Tech:** Java, Spring Boot, PostgreSQL, Docker, Maven
+
+#### [ShareIt](https://github.com/igorkosalapov/java-shareit)
+A service for item sharing with booking logic, request management, and gateway/server architecture.  
+**Tech:** Java, Spring Boot, JPA, PostgreSQL, Maven
+
+#### [Filmorate](https://github.com/igorkosalapov/java-filmorate)
+A movie service with likes, friendships, genres, and MPA ratings.  
+**Tech:** Java, Spring Boot, JDBC, H2, SQL
+
+#### [Kanban](https://github.com/igorkosalapov/java-kanban)
+A task tracker with custom business logic, CSV-based persistence, history, and HTTP API.  
+**Tech:** Java, HTTP Server, Gson
+
+### Currently learning
+- Backend architecture and application design
+- Writing cleaner and more maintainable code
+- Deepening my knowledge of SQL and Spring Boot
+- Applying backend development best practices in personal projects
+
+### Contact
+- Telegram: [@blackscreen777](https://t.me/blackscreen777)
+
+---
+⭐ Feel free to explore my repositories
