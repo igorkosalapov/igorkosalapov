@@ -81,4 +81,4 @@ Multi-module platform for publishing, moderating and discovering events.
 ## Contact
 
 - **Telegram:** [@blackscreen777](https://t.me/blackscreen777)
-- **Email:** [igor.kosalapov@gmail.com](mailto:igor.kosalapov@gmail.com)
+- **Email:** [ikosalapov@yandex.ru](mailto:ikosalapov@yandex.ru)
