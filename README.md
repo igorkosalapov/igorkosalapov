@@ -1,42 +1,62 @@
-## Hi there 👋
+Java Backend Developer
 
-### Java Backend Developer
+I develop backend services with Java and Spring Boot, focusing on REST APIs, transactional business logic, data consistency, security, event-driven integrations and automated testing.
 
-I develop backend applications in Java and focus on building REST APIs, working with databases, and designing clean, maintainable service architecture.
+Core stack
 
-### Tech stack
-- **Language:** Java
-- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
-- **Databases:** PostgreSQL, H2
-- **Tools:** Maven, Docker, Git, Postman
-- **Testing:** JUnit, integration testing, API testing
+- Java: Java 17/21, Collections, Stream API, Multithreading
+- Backend: Spring Boot, Spring Web, Spring Data JPA, Spring Security, Hibernate
+- Databases: PostgreSQL, SQL, Liquibase
+- Messaging: Apache Kafka
+- Testing: JUnit, Mockito, MockMvc, Testcontainers
+- Tools: Maven, Git, Docker, Docker Compose, OpenAPI
 
-### Featured projects
+Featured projects
 
-#### [Explore With Me](https://github.com/igorkosalapov/java-explore-with-me)
-A multi-module event platform with a main application and a separate statistics service.  
-**Tech:** Java, Spring Boot, PostgreSQL, Docker, Maven
+"Bank Cards Service" (https://github.com/igorkosalapov/bank_rest)
 
-#### [ShareIt](https://github.com/igorkosalapov/java-shareit)
-A service for item sharing with booking logic, request management, and gateway/server architecture.  
-**Tech:** Java, Spring Boot, JPA, PostgreSQL, Maven
+Backend service for managing users, bank cards and transfers.
 
-#### [Filmorate](https://github.com/igorkosalapov/java-filmorate)
-A movie service with likes, friendships, genres, and MPA ratings.  
-**Tech:** Java, Spring Boot, JDBC, H2, SQL
+- JWT authentication and role-based access for "USER" and "ADMIN"
+- transactional transfers with pessimistic locking
+- fixed record-locking order for concurrent operations
+- AES-GCM encryption and masking of card numbers
+- PostgreSQL migrations with Liquibase
+- Docker Compose and OpenAPI documentation
 
-#### [Kanban](https://github.com/igorkosalapov/java-kanban)
-A task tracker with custom business logic, CSV-based persistence, history, and HTTP API.  
-**Tech:** Java, HTTP Server, Gson
-
-### Currently learning
-- Backend architecture and application design
-- Writing cleaner and more maintainable code
-- Deepening my knowledge of SQL and Spring Boot
-- Applying backend development best practices in personal projects
-
-### Contact
-- Telegram: [@blackscreen777](https://t.me/blackscreen777)
+Stack: Java 17, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, Liquibase, Docker Compose
 
 ---
-⭐ Feel free to explore my repositories
+
+"Task Management Service" (https://github.com/igorkosalapov/task-management-service)
+
+REST service for managing tasks, assignees and statuses.
+
+- task lifecycle management and pagination
+- Kafka events for task creation and assignment
+- PostgreSQL persistence
+- unit, MVC and integration tests
+- end-to-end integration scenario: "HTTP → PostgreSQL → Kafka"
+- isolated PostgreSQL and Kafka environments with Testcontainers
+
+Stack: Java 21, Spring Boot, Spring Data JPA, PostgreSQL, Apache Kafka, Testcontainers, Docker Compose
+
+---
+
+"Explore With Me" (https://github.com/igorkosalapov/java-explore-with-me)
+
+Multi-module platform for publishing, moderating and searching events.
+
+- separate main and statistics services
+- two PostgreSQL databases
+- inter-service communication over HTTP
+- dynamic event filtering with JPA Specifications
+- event search by geographical area
+- Docker Compose deployment
+
+Stack: Java 21, Spring Boot, Spring Data JPA, PostgreSQL, Docker Compose, Maven
+
+Contact
+
+- Telegram: "@blackscreen777" (https://t.me/blackscreen777)
+- Email: "igor.kosalapov@gmail.com" (mailto:igor.kosalapov@gmail.com)
