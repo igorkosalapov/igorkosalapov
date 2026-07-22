@@ -23,7 +23,7 @@ I am open to remote Java Backend Developer opportunities.
 
 ## Selected projects
 
-### [Bank Cards Service](https://github.com/igorkosalapov/bank_rest)
+### [Bank Cards Service](https://github.com/igorkosalapov/bank-cards-service)
 
 Backend service for managing users, bank cards and transfers.
 
