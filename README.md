@@ -8,9 +8,11 @@ I develop backend services with Java and Spring Boot, focusing on REST API desig
 
 I work with PostgreSQL, Spring Data JPA, Hibernate, Spring Security, Apache Kafka, Liquibase, Docker and Testcontainers.
 
-Alongside backend development, I have more than 7 years of experience in industrial production and currently lead a shift team of 5 employees. This experience has taught me to take responsibility for results, distribute tasks, coordinate with other teams and make decisions in non-standard situations.
+I have 3+ years of experience in Java backend development. From January 2023 to July 2026, I worked as a Java Developer at Sber, developing backend services for payment processing and transfers in SberBank Online.
 
-I am open to remote Java Backend Developer opportunities.
+My work included operation state management, integrations with internal banking services, idempotent request processing, centralized validation, status history and server-side search, filtering and pagination.
+
+I am open to Java Backend Developer opportunities.
 
 ## Tech stack
 
@@ -80,5 +82,5 @@ Multi-module platform for publishing, moderating and discovering events.
 
 ## Contact
 
-- **Telegram:** [@blackscreen777](https://t.me/blackscreen777)
-- **Email:** [ikosalapov@yandex.ru](mailto:ikosalapov@yandex.ru)
+- **Telegram:** [@igorkosalapov](https://t.me/igorkosalapov)
+- **Email:** [kosalapovigor@yandex.ru](mailto:kosalapovigor@yandex.ru)
